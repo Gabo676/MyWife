@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+#app {
+    margin: 10px;
+}
+
+#songList {
+    list-style: none;
+    padding: 0;
+}
+
+#songList li {
+    margin: 10px 0;
+    cursor: pointer;
+    color: #0073e6;
+}
+
+#currentTrack {
+    margin-top: 20px;
+}
+
+#controls {
+    margin-top: 20px;
+}
+
+.control-button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
