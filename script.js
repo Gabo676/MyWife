@@ -2,7 +2,7 @@
 $(document).ready(function() {
     const clientId = '16fdc819e5804fb08562c41677a6c9a4';
     const clientSecret = 'YOUR_CLIENT_SECRET'; // Reemplaza 'YOUR_CLIENT_SECRET' con el valor correcto
-    const redirectUri = 'http://localhost:5500/index.html';
+    const redirectUri = 'https://gabo676.github.io/MyWife/';
     
     const authEndpoint = 'https://accounts.spotify.com/authorize';
     const scopes = [
